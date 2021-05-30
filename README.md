@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hiya!%20I'm%20Mia%20;\)%20🌷&fontAlignY=45&desc=a%20frontend%20developer%20who%20loves%20designing%20products&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
 
 
-Hi, I'm a ***Frontend Web Developer*** who loves to *design products* as well.
+Hi there!&nbsp;👋
 
-I studied a visual communication design at the uni and used to work as an ***UXUI Designer*** at startups.
+I'm a ***Frontend Web Developer*** who loves to *design products* as well.
 
-Currently working for kakaocommerce, in ***Pangyo Techno Vally 🇰🇷***
+I studied a ***visual communication design*** at the uni and used to work as an 🌈***UXUI Designer***🌈&nbsp; at startups.
 
-Interested in ***TypeScript, React, Recoil, Angular*** thesedays...
+Currently working for kakaocommerce 🛍, in ***Pangyo Techno Vally, South Korea 🇰🇷***
 
-Lastly, I'm the lunatic traveller! Can't wait till the next trip 🧚 ! (f**k COVID19!)
+Interested in ***TypeScript, React, Recoil, Angular***, these days...
+
+And yeah, I'm a lunatic traveller! Can't wait till the next trip 🧚 &nbsp;! ~~(f**k COVID19!)~~
 
 ### 🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
 
