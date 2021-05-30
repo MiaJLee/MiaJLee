@@ -1,5 +1,15 @@
-### Hiya I'm Mia! ;)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaJLee&show_icons=true&theme=dracula) -->
+# Hiya! I'm Mia ;) 🌷
+a ***Frontend Web Developer*** who loves to *design products* as well
+
+currently working at ***Pangyo Techno Vally 🇰🇷***
+
+Interested in ***TypeScript, React, Recoil, Angular*** thesedays...
+
+lastly I love to Travel! (f**k COVID19!)
+
+🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaJLee&show_icons=true&theme=dracula)
 
 
 <!--
