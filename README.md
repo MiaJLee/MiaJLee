@@ -9,7 +9,7 @@ Currently working for kakaocommerce, in ***Pangyo Techno Vally 🇰🇷***
 
 Interested in ***TypeScript, React, Recoil, Angular*** thesedays...
 
-Lastly, I'm a Travel-holic! Can't wait till the next trip 🧚 ! (f**k COVID19!)
+Lastly, I'm the lunatic traveller! Can't wait till the next trip 🧚 ! (f**k COVID19!)
 
 ### 🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
 
