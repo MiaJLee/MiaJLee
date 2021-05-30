@@ -1,13 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hiya!%20I'm%20Mia%20;\)%20🌷&fontAlignY=45&desc=Frontend%20Web%20Developer&descSize=30&descAlignY=75&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hiya!%20I'm%20Mia%20;\)%20🌷&fontAlignY=45&desc=a%20frontend%20developer%20who%20loves%20designing%20products&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
 
 
-a ***Frontend Web Developer*** who loves to *design products* as well
+Hi, I'm a ***Frontend Web Developer*** who loves to *design products* as well.
 
-currently working at ***Pangyo Techno Vally 🇰🇷***
+I studied a visual communication design at the uni and used to work as an ***UXUI Designer*** at startups.
+
+Currently working for kakaocommerce, in ***Pangyo Techno Vally 🇰🇷***
 
 Interested in ***TypeScript, React, Recoil, Angular*** thesedays...
 
-lastly I love to Travel! (f**k COVID19!)
+Lastly, I'm a Travel-holic! Can't wait till the next trip 🧚 ! (f**k COVID19!)
 
 ### 🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
 
