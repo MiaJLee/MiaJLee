@@ -15,7 +15,12 @@ And yeah, I'm a lunatic traveller! Can't wait till the next trip 🧚 &nbsp;! ~~
 
 ### 🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
 
+## My blog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyounglee)](https://github.com/eungyeole/velog-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaJLee&show_icons=true&theme=dracula)
+
 
 
 <!--
