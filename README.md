@@ -5,17 +5,9 @@ Hi there!&nbsp;👋
 
 I'm a ***Frontend Web Developer*** who loves to *design products* as well.
 
-I studied a ***visual communication design*** at the uni and used to work as an 🌈***UXUI Designer***🌈&nbsp; at startups.
+I studied a ***graphic design*** at the uni and used to work as an 🌈***UXUI Designer***🌈&nbsp; at startups.
 
-Interested in ***TypeScript, React, Recoil, Angular***, these days...
-
-
-## My blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyounglee)](https://github.com/eungyeole/velog-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaJLee&show_icons=true&theme=dracula)
-
+Interested in ***TypeScript, Angular, Monorepo(Nx), React, Recoil***, these days...
 
 
 <!--
