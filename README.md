@@ -8,7 +8,7 @@ Hi, my name is **Mia, Jihyung Lee**.
 
 I am a frontend developer with 6 years of experience specializing in **Angular** and **TypeScript**, with a strong track record of building and improving large-scale commerce platform admin tools and B2B seller centers.
 
-With a background in **Visual Design**, I approach problems from a UX perspective — defining requirements in collaboration with planners, designers, and backend engineers, and translating them into implementable structures.
+With a background in **Graphic Design**, I approach problems from a UX perspective — defining requirements in collaboration with planners, designers, and backend engineers, and translating them into implementable structures.
 
 I have led initiatives in **monorepo migration**, **CI/CD optimization**, and **test automation** to enhance team productivity and system reliability. I believe in simplifying complex domains into maintainable architectures that empower teams to ship with confidence.
 
