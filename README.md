@@ -77,7 +77,7 @@ Angular, TypeScript 기반의 **6년차 프론트엔드 개발자**로, 대규�
 
 ### 사이드 프로젝트
 
-* **[DJBB (DJ Black Bunny)]([https://github.com/MiaJLee](https://velog.io/@hyounglee/DJ-blackbunny))** — 새해를 시작하는 음악과 함께 편지를 전달하는 서비스. 기획·프로덕트 디자인·개발(FE/BE) 전 과정 수행. 서비스 배포 후 약 1,900개 이상의 카드 생성.
+* **[DJBB (DJ Black Bunny)](https://velog.io/@hyounglee/DJ-blackbunny)** — 새해를 시작하는 음악과 함께 편지를 전달하는 서비스. 기획·프로덕트 디자인·개발(FE/BE) 전 과정 수행. 서비스 배포 후 약 1,900개 이상의 카드 생성.
 
 ## 경력
 
