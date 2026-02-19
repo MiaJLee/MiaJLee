@@ -49,6 +49,7 @@ I have led initiatives in **monorepo migration**, **CI/CD optimization**, and **
 ## Language
 
 * **English** — OPIc AL (2020), TOEFL iBT 107 (2019)
+* **Spanish** - Duolingo Score 58
 
 ---
 
@@ -101,6 +102,7 @@ Angular, TypeScript 기반의 **6년차 프론트엔드 개발자**로, 대규�
 ## 어학
 
 * **영어** — OPIc AL (2020), TOEFL iBT 107 (2019)
+* **스페인어** - Duolingo Score 58
 
 ---
 
