@@ -1,4 +1,4 @@
-# Hi there, It's Jihyung 👋
+# Hi there, This is Jihyung 👋
 
 <!-- English -->
 
